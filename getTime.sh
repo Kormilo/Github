@@ -2,7 +2,7 @@
 #This is a script for recording the time
 
 count=0
-for getTime in {0..350..1}
+for getTime in {0..10..1}
   do
     date >> date.txt
     ls
