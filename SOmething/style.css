@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+
+    font-family: sans-serif;
+    color:teal;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.yellowBox{
+
+    height: 500px;
+    width: 50%;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+
+}
+
+.frog {
+    font-size: 100px !important;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: green;
+
+}
+
+.smallBlueBox {
+
+    height: 50%;
+    width: 50%;
+    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+
+}
